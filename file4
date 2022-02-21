@@ -3,8 +3,9 @@ cd
 cp
 pwd
 cat
-vi
 touch
 mkdir
 rmdir
-
+ls -l
+history
+clear
